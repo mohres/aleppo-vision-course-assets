@@ -1,0 +1,1 @@
+# aleppo-vision-course-assets
